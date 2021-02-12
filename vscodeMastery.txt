@@ -1,0 +1,59 @@
+now you can update the unupdated dependencies from package.json
+and use npm install to install latest released dependencies.
+
+olay
+you can use custom regions 
+
+
+shortcut keys
+
+
+
+
+
+ACTIONS                              SHORTCUT KEYS
+
+
+to shift to code editor                  ctrl + 1 
+to shift to sidebar (file explored)                     ctrl + b  AND THEN  ctrl + 0 
+
+OPEN SETTINGS IN JSON FORMAT          CTRL + ,                                                   
+OPEN SETTINGS IN UI FORMAT          CTRL + SHIFT + ,                                                   
+
+CLOSE CURRENT WINDOW                CTRL + W 
+
+OPEN FILE EXPLORER BAR                CTRL + B 
+
+OPEN ACTIVITY BAR                    CTRL + SHIFT + B 
+                    
+OPEN VSCODE PALLET                    CTRL+SHIFT + P 
+
+CHANGE PEACOCK COLOR                  OPEN VSCODE PALLET AND SEARCH PEACOCK 
+
+OPEN RECENTLY OPENED FILE             CTRL + SHIFT + T     OR      CTRL + P + P
+
+SEARCH KEYWORD LOCATED IN ALL PROJECT FILES
+
+In code  
+                                                                 
+use multiple cursor(ie. pushing multiple lines to right)     ctrl + alt + up/down arrow   
+DUPLICATE A LINE                                             SHIFT +ALT +UP/DOWN 
+MOVE A LINE UP OR DOWN                                        ALT + UP/DOWN
+
+
+reload vscode                                              ctrl + shift + p > type reload window 
+
+
+
+In HTML 
+                                                 
+To select all child html nodes only                                 ctrl shift down                 
+To select all child html nodes    inlcuding parent node             ctrl shift up                                  
+                                                                 
+=====================21 december ============================================================
+
+
+                                                                 
+                              
+  
+                            
